@@ -1,4 +1,8 @@
 ### Hi there 👋
+Bana burdan ulaşabilirsiniz;
+sanemciloglu@gmail.com
+
+
 
 <!--
 **Sanemciloglu/Sanemciloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
